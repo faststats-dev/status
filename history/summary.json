@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/export.faststats.dev.ico",
     "slug": "data-exporter",
     "status": "up",
-    "uptime": "4.66%",
-    "uptimeDay": "4.66%",
-    "uptimeWeek": "4.66%",
-    "uptimeMonth": "4.66%",
-    "uptimeYear": "4.66%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 688,
     "timeDay": 688,
     "timeWeek": 688,
     "timeMonth": 688,
     "timeYear": 688,
-    "dailyMinutesDown": {
-      "2026-01-10": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
