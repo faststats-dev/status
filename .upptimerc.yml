@@ -26,7 +26,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: Discords
+    - title: Discord
       href: https://discord.gg/fzf9TRbu4a
 
 # Upptime also supports notifications, assigning issues, and more
