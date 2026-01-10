@@ -1,0 +1,26 @@
+:root {
+  --body-background-color: oklch(0.145 0 0);
+  --body-text-color: oklch(0.985 0 0);
+  --card-background-color: oklch(0.205 0 0);
+  --nav-background-color: oklch(0.205 0 0);
+  --nav-border-bottom-color: oklch(1 0 0 / 10%);
+  --nav-current-border-bottom-color: oklch(0.705 0.213 47.604);
+  --card-border-color: oklch(1 0 0 / 10%);
+  --down-border-left-color: oklch(0.704 0.191 22.216);
+  --down-background-color: oklch(0.704 0.191 22.216 / 20%);
+  --degraded-border-left-color: oklch(0.556 0 0);
+  --up-border-left-color: oklch(0.705 0.213 47.604);
+  --tag-color: oklch(0.985 0 0);
+  --tag-up-background-color: oklch(0.705 0.213 47.604);
+  --tag-down-background-color: oklch(0.704 0.191 22.216);
+  --tag-degraded-background-color: oklch(0.269 0 0);
+  --change-background-color: oklch(0.371 0 0);
+  --error-button-border-color: oklch(0.704 0.191 22.216);
+  --error-button-background-color: oklch(0.704 0.191 22.216);
+  --error-button-color: oklch(0.985 0 0);
+  --submit-button-border-color: oklch(0.705 0.213 47.604);
+  --submit-button-background-color: oklch(0.705 0.213 47.604);
+  --submit-button-color: oklch(0.145 0 0);
+  --graph-opacity: 1;
+  --graph-filter: none;
+}
