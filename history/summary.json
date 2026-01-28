@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/faststats.dev.ico",
     "slug": "frontend",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 1773,
-    "timeDay": 1103,
-    "timeWeek": 996,
-    "timeMonth": 1773,
-    "timeYear": 1773,
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 1761,
+    "timeDay": 1414,
+    "timeWeek": 1028,
+    "timeMonth": 1761,
+    "timeYear": 1761,
     "dailyMinutesDown": {
       "2026-01-11": 34
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 962,
-    "timeDay": 467,
-    "timeWeek": 2049,
-    "timeMonth": 962,
-    "timeYear": 962,
+    "time": 948,
+    "timeDay": 536,
+    "timeWeek": 2058,
+    "timeMonth": 948,
+    "timeYear": 948,
     "dailyMinutesDown": {
       "2026-01-23": 19
     }
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 508,
-    "timeDay": 623,
-    "timeWeek": 469,
+    "timeDay": 502,
+    "timeWeek": 464,
     "timeMonth": 508,
     "timeYear": 508,
     "dailyMinutesDown": {}
