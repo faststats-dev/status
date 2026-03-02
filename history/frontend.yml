@@ -1,7 +1,7 @@
 url: https://faststats.dev
-status: up
-code: 200
-responseTime: 667
-lastUpdated: 2026-03-01T23:15:44.965Z
+status: down
+code: 502
+responseTime: 15237
+lastUpdated: 2026-03-02T20:18:38.998Z
 startTime: 2026-01-10T18:08:34.856Z
 generator: Upptime <https://github.com/upptime/upptime>
